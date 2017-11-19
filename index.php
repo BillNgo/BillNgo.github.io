@@ -7,6 +7,7 @@
 <?php
 echo "Hello World!";
 ?>
-
+  <p>It's funny because this PHP page doesn't work.</p>
+  
 </body>
 </html>
